@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const Color kcPrimaryColor = Color(0xFFFD576E);
+const Color kcPrimaryColorDark = Color(0xFF300151);
+const Color kcDarkGreyColor = Color(0xFF1A1B1E);
+const Color kcMediumGrey = Color(0xFF474A54);
+const Color kcLightGrey = Color.fromARGB(255, 187, 187, 187);
+const Color kcVeryLightGrey = Color(0xFFE3E3E3);
+const Color kcBackgroundColor = kcDarkGreyColor;
+const Color unselectedTabColor = Color(0xFF666666);
+const Color offWhiteColor = Color(0xFFF3F3F3);
+const Color color1 = Color(0xFFFF5F6B);
+const Color color2 = Color(0xFFFB2B7E);
+const Color textHeadColor = Color(0xFF1F1F1F);
+const Color appBarColor1 = Color(0xFFf99ccc);
+const Color appBarColor2 = Color(0xFFfca5c1);
+const Color appointmentBg = Color(0xFFF5F5F5);
+const Color ratingTextColor = Color(0xFF595959);
+const Color locationColor = Color(0xFF8B8B8B);
+const Color communityHeaderColor = Color(0xFF1F1F1F);
